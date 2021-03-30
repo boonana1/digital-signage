@@ -1,0 +1,18 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url('./img/bg.jpg') center no-repeat;
+    background-size: cover;
+    font-family: 'Poiret One', cursive;
+    font-size: 1.7em;
+}
+
+.acrylic {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
